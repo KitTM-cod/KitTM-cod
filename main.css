@@ -1,0 +1,54 @@
+body {
+    background-color: aquamarine;
+    position: absolute;
+    top: 15%;
+    color: slategray;
+    font-size: 25px;
+    user-select: none;
+}
+
+.url {
+    color: slategray;
+    font-size: 30px;
+    position: absolute;
+    left:50%;
+}
+
+.url:hover {
+    background-color: black;
+    color: wheat;
+    font-size: 40px;
+    border-radius: 10px;
+    position: absolute;
+    left:50%;
+}
+
+footer .url{
+    color: slategray;
+    font-size: 30px;
+    position: absolute;
+    left:35%;
+}
+
+footer .url:hover {
+    background-color: black;
+    color: wheat;
+    font-size: 40px;
+    border-radius: 10px;
+    position: absolute;
+    left:35%;
+}
+
+
+
+footer {
+    
+    background-color: darkgray;
+    color: whitesmoke;
+    border-radius: 10px;
+    
+    position: absolute;
+    bottom: -140%;
+    width: 1520px;
+    height: 150px;
+}
