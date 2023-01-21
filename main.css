@@ -10,17 +10,12 @@ body {
 .url {
     color: slategray;
     font-size: 30px;
-    position: absolute;
-    left:50%;
 }
 
 .url:hover {
     background-color: black;
-    color: wheat;
-    font-size: 40px;
+    color: gray;
     border-radius: 10px;
-    position: absolute;
-    left:50%;
 }
 
 footer .url{
